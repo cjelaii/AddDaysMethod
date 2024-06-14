@@ -1,0 +1,15 @@
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/bin/Debug/net7.0/AddDaysMethod
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/bin/Debug/net7.0/AddDaysMethod.deps.json
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/bin/Debug/net7.0/AddDaysMethod.runtimeconfig.json
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/bin/Debug/net7.0/AddDaysMethod.dll
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/bin/Debug/net7.0/AddDaysMethod.pdb
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.csproj.AssemblyReference.cache
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.AssemblyInfoInputs.cache
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.AssemblyInfo.cs
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.csproj.CoreCompileInputs.cache
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.dll
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/refint/AddDaysMethod.dll
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.pdb
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/AddDaysMethod.genruntimeconfig.cache
+/Users/CharlotteCepillo/Projects/AddDaysMethod/AddDaysMethod/obj/Debug/net7.0/ref/AddDaysMethod.dll
